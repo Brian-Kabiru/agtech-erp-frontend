@@ -160,7 +160,7 @@ export default function FarmersPage() {
             Farmers Management
           </h1>
           <p className="text-gray-600 mt-2">
-            Manage all registered farmers in your cooperative
+            Manage all registered farmers in your cooperative platform
           </p>
         </div>
         <Button onClick={handleAddFarmer} className="gap-2">
